@@ -1,10 +1,10 @@
 [config]
 # models
-# model="gpt-4o-2024-11-20"
-# fallback_models=["gpt-4o-2024-08-06"]
+model="gpt-4o-2024-11-20"
+fallback_models=["gpt-4o-2024-08-06"]
 
-model="google_ai_studio/gemini-1.5-flash"
-fallback_models=["google_ai_studio/gemini-1.5-flash"]
+# model="google_ai_studio/gemini-1.5-flash"
+# fallback_models=["google_ai_studio/gemini-1.5-flash"]
 
 #model_weak="gpt-4o-mini-2024-07-18" # optional, a weaker model to use for some easier tasks
 # CLI
